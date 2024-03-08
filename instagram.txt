@@ -1,7 +1,7 @@
 # DNS Blocklist for the instagram group.
 
-cdninstagram.com
-ig.me
-igsonar.com
-instagram.c10r.facebook.com
-instagram.com
+||cdninstagram.com^
+||ig.me^
+||igsonar.com^
+||instagram.c10r.facebook.com^
+||instagram.com^
