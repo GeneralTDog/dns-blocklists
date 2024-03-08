@@ -113,6 +113,19 @@ ttwstatic.com
 events.gfe.nvidia.com
 lightstep.kaizen.nvidia.com
 #
+# Snapchat #
+#
+analytics.snapchat.com
+app-analytics-v2.snapchat.com
+app-analytics.snapchat.com
+bolt-gcdn.sc-cdn.net
+gcp.api.snapchat.com
+gtq6.sct.sc-prod.net
+snapchat-proxy.appspot.com
+us-east1-aws.api.snapchat.com
+usc.adserver.snapads.com
+||snapads.com^
+#
 # Other #
 #
 a1rabvci4qcikc.us-east-1.prod.service.minerva.devices.a2z.com
