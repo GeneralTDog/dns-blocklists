@@ -1,5 +1,5 @@
 # DNS Blocklist for the instagram group.
-
+# (in addition to these domains i run a RegEx-Block with "instagram" as string to be blocked)
 ||cdninstagram.com^
 ||ig.me^
 ||igsonar.com^

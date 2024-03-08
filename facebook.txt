@@ -1,5 +1,5 @@
 # DNS Blocklist for the facebook group.
-
+# (in addition to these domains i run a RegEx-Block with "facebook" as string to be blocked)
 ||accountkit.com^
 ||acebook.com^
 ||faacebook.com^

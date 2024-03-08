@@ -3,6 +3,7 @@
 #
 #
 # TikTok #
+# (in addition to these domains i run a RegEx-Block with "tiktok" as string to be blocked)
 #
 abtest-sg-tiktok.byteoversea.com
 abtest-va-tiktok.byteoversea.com
@@ -122,6 +123,7 @@ cdn.cookielaw.org
 collector-hpn.ghostery.net
 d7ae3d206ce5366b0f0105dc74e8b013274baf9c15fd9588c12a576fa3ac95c.us-east-1.prod.service.minerva.devices.a2z.com
 getpocket.cdn.mozilla.net
+improving.duckduckgo.com
 mozorg.moz.work
 push.services.mozilla.com
 safely.com
