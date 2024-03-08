@@ -1,0 +1,18 @@
+# DNS Blocklist for the default group.
+# A Blocklist which contains Domains that i consider should belong to a default setting of DNS-filtering.
+
+a1rabvci4qcikc.us-east-1.prod.service.minerva.devices.a2z.com
+analytics.ycdn.de
+argo.avm.de
+audio-ak-spotify-com.akamized.net
+cdn.cookielaw.org
+collector-hpn.ghostery.net
+d7ae3d206ce5366b0f0105dc74e8b013274baf9c15fd9588c12a576fa3ac95c.us-east-1.prod.service.minerva.devices.a2z.com
+getpocket.cdn.mozilla.net
+lightstep.kaizen.nvidia.com
+mozorg.moz.work
+push.services.mozilla.com
+safely.com
+safesly.com
+snoop.minecraft.net
+web.diagnostic.networking.aws.dev
