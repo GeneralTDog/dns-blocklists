@@ -119,10 +119,10 @@ analytics.snapchat.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
 bolt-gcdn.sc-cdn.net
-#gcp.api.snapchat.com (apparently this is used to receive and send snaps - tbc)
+gcp.api.snapchat.com (apparently this is used to receive and send snaps - tbc)
 gtq6.sct.sc-prod.net
 snapchat-proxy.appspot.com
-us-east1-aws.api.snapchat.com
+us-east1-aws.api.snapchat.com  (apparently this is used to receive and send snaps - tbc)
 usc.adserver.snapads.com
 ||snapads.com^
 #
